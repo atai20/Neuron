@@ -22,7 +22,7 @@ namespace Neuron
             Console.WriteLine("");
             Console.WriteLine("");
             ax.Compile();
-            ax.Study(expect);
+            ax.Study(expect, 1);
 
 
 
